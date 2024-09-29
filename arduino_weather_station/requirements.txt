@@ -1,0 +1,5 @@
+# for each entry below: arduino-cli lib install <entry>
+
+"dht sensor library"
+BH1750FVI
+ALog
